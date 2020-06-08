@@ -18,5 +18,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="/Users/uanjum/Downloads/java-json/java-json.jar"/>
+	<classpathentry kind="lib" path="/Users/uanjum/Documents/ProjectSkynet2/ProjectSkynet2/resources/jsonp_1.1_api.zip"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
